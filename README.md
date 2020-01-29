@@ -1,4 +1,4 @@
-# project
+# Pro Masjid Finder
 
 A new Flutter application.
 
